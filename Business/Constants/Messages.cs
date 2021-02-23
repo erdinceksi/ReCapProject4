@@ -24,7 +24,7 @@ namespace Business.Constants
         public static string RentalAdded = "Rental added";
         public static string RentalUpdated = "Rental updated";
         public static string RentalDeleted = "Rental deleted";
-        public static string RentalCouldNotAdded = "Rental could not aded";
+        public static string RentalCouldNotAdded = "Rental could not added";
         public static string InvalidDailyPrice = "DailyPrice must be greater than 0";
         public static string InvalidCarDescription = "CarDescription must be greater than 2";
         public static string ExistingCar = "Car already exists in the list";
